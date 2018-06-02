@@ -1,4 +1,4 @@
-#Day 15: Breaking OTP
+#Day 16: Breaking OTP
 
 Sometimes I read that one-time pad is an unbreakable cipher. And of course, completely broken example is usually attached.
 <br/>

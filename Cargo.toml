@@ -1,0 +1,7 @@
+[package]
+name = "breaking_OTP"
+version = "0.1.0"
+authors = ["howard.huang <howard.huang@funp.com>"]
+
+[dependencies]
+byteorder = "1.2.3"
